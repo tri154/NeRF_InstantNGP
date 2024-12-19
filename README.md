@@ -19,6 +19,7 @@ This repository provides an implementation of Neural Radiance Fields (NeRF) base
     ```
    - In Dataset, there has included Nerf Synthetic Dataset and Custom-NeRF (our dataset captured from realworld).
    - Just run all to install dependencies and run the training and see results.
+   - Check out other trained model in other version, including video and validation on both datasets.
 
 ## Requirements
 - **Hardware**: NVIDIA GPU (e.g., T4 or better recommended).
